@@ -4,7 +4,7 @@
 
 ## About
 
-3DTrenchy is a community-driven 3D printing project. For more information about the project launch and community, check out the [3DTrenchy launch video on YouTube](https://www.youtube.com/watch?v=zc_4vQl6kY4).
+3DTrenchy is a 3D printing project. For more information about the project launch and community, check out the [3DTrenchy launch video on YouTube](https://www.youtube.com/watch?v=zc_4vQl6kY4).
 
 ## Files
 
