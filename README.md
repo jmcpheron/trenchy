@@ -1,7 +1,5 @@
 # 3DTrenchy
 
-> An open-source 3D printing community project inspired by the Among Us character.
-
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## About
