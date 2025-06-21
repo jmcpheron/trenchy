@@ -20,6 +20,6 @@ This project is licensed under the Creative Commons Zero (CC0) 1.0 Universal lic
 
 ## Related Projects
 
-For 3D Trenchy compatible irl-plug-ins and modular chassis modifications, check out [trenchy-classy-chassis-mods](https://github.com/jmcpheron/trenchy-classy-chassis-mods).
+For 3D Trenchy compatible irl-plug-in wheels and axles with OpenSCAD source code check out [trenchy-classy-chassis-mods](https://github.com/jmcpheron/trenchy-classy-chassis-mods).
 
 ---
